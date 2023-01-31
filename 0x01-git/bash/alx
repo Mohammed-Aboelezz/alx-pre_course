@@ -3,9 +3,13 @@ echo School
 =======
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "ALX School"
 =======
 echo ALX
 ALX School is so cool!
 >>>>>>> 664c1a256fff4714a192c0cdb0e0144cde6e5dcc
 >>>>>>> bc12af7abfaa046bf3107f4039ce70aff37ab42a
+=======
+echo "ALX School"
+>>>>>>> 8fb4ddd1566b6db62d57bf25c181dab50d00c211
